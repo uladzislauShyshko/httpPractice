@@ -7,3 +7,7 @@ type Task struct {
 	UpdatedAt `json:"updated_at"`
 
 }
+
+func main() {
+	fmt.Print("lolo")
+}
